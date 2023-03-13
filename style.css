@@ -34,6 +34,7 @@ body{
 	font-size: 20px;
 	transition: .5s;
 }
+
 .myTouch:hover{
 	cursor: pointer;
 	background-color: rgb(181, 145, 226);
