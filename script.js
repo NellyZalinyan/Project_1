@@ -6,6 +6,7 @@ function color()
 	    document.body.style.backgroundColor = `rgb(${x},${y},${z})`
 	}
 
+
 function myTouch()
 	{
 	    let letters = 0
